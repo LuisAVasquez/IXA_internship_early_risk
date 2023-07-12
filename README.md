@@ -20,4 +20,6 @@ pip install -r requirements.txt
 
  ## Note
 
- Several datasets and models will be stored in the `datasets` and `training` directories. Expect the whole content of this project to be around 1.5 GB
+- Several datasets and models will be stored in the `datasets` and `training` directories. Expect the whole content of this project to be around 1.5 GB
+
+- A version of this repo with all the models already trained is available for download [here](https://drive.google.com/drive/folders/1KmnCBDt8excsxEgYbaR__T5zxVujzPBA?usp=sharing)
